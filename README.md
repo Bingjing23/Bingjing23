@@ -7,8 +7,6 @@ Genomics, Imaging, and AI Lab · QIMR Berghofer
 
 I work on imaging genetics and AI, using large-scale brain imaging data and fMRI foundation models to explore the genetic basis of brain function and its links to disease.
 
-Alongside my PhD, I work as a research assistant at the Queensland Neurostimulation Centre (QNC).
-
 Previously, I worked with Prof James F. Griffith at CUHK on deep learning for musculoskeletal MRI segmentation and automated quantification of inflammation in rheumatoid arthritis.
 
 ### [Visit my personal website →](https://bingjing23.github.io/)

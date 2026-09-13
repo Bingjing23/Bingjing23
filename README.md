@@ -11,4 +11,4 @@ Previously, I worked with Prof James F. Griffith at CUHK on deep learning for mu
 
 ### [Visit my personal website →](https://bingjing23.github.io/)
 
-[Publications](https://bingjing23.github.io/publications.html) · [CV](https://bingjing23.github.io/cv.html) · [Email](mailto:bingjing.zhou@qimrb.edu.au) · [LinkedIn](https://www.linkedin.com/in/bingjing-zhou-9565a0262/) · [ORCID](https://orcid.org/0009-0007-9734-4721)
+[Google Scholar](https://scholar.google.com.hk/citations?user=AtSq6WAAAAAJ&hl=en) · [Publications](https://bingjing23.github.io/publications.html) · [CV](https://bingjing23.github.io/cv.html) · [Email](mailto:bingjing.zhou@qimrb.edu.au) · [LinkedIn](https://www.linkedin.com/in/bingjing-zhou-9565a0262/) · [ORCID](https://orcid.org/0009-0007-9734-4721)

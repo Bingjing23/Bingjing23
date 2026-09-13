@@ -1,8 +1,4 @@
-<a href="https://bingjing23.github.io/">
-  <img align="right" src="https://bingjing23.github.io/assets/bingjing-zhou.jpg" alt="Bingjing Zhou" width="140">
-</a>
-
-# Bingjing Zhou
+### Bingjing Zhou
 
 **PhD Candidate · The University of Queensland & QIMR Berghofer**
 
